@@ -1,0 +1,54 @@
+body{
+    background-position: center;
+    justify-content: center;
+    background-size: cover;
+    background-image: url(0.jpg);
+    align-items: center;
+    height: 100vh;
+    margin: 0%;
+    display: flex;
+
+
+}
+.login1{
+    max-width: 700px;
+    margin: 50px;
+    
+    padding: 70px;
+    border:10px;
+    border-radius: 13%;
+    justify-content: center;
+    background-position: center;
+    box-shadow: 0 0 30px rgb(201, 213, 216), 0 0 50px black;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    background: rgb(255, 255, 255,0.01);
+    align-items: center;
+    text-align: center;   
+    color: rgb(142, 66, 137);
+}
+label{
+    font-weight: bold;
+}
+input{
+    margin: 7px;
+    padding:10px; 
+    border: 1px solid rgb(195, 105, 174);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter:blur(10px);
+    background: rgb(255, 255, 255,0.1);
+
+}
+button{
+    border: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-weight: bold;
+    box-shadow: 0 0 30px blue, 0 0 50px;
+    background-color: rgb(14, 34, 255);
+    color: aliceblue;
+}
