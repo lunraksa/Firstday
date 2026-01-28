@@ -8,4 +8,6 @@ else:
     print("You not my type!")
  
 print("Today i have learn about How to use git and github")
+print("Hello guy!")
+
 
